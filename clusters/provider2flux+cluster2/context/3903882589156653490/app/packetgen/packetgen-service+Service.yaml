@@ -1,1 +1,0 @@
-{"apiVersion":"v1","kind":"Service","metadata":{"labels":{"app":"packetgen","chart":"packetgen","emco/deployment-id":"3903882589156653490-packetgen","release":"v1"},"name":"packetgen-service","namespace":"default"},"spec":{"ports":[{"nodePort":30831,"port":2831}],"selector":{"app":"packetgen","release":"v1"},"type":"NodePort"}}

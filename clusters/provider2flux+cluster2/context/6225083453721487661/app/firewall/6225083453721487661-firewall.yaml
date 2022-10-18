@@ -1,1 +1,0 @@
-{"apiVersion":"k8splugin.io/v1alpha1","kind":"ResourceBundleState","metadata":{"creationTimestamp":null,"labels":{"emco/deployment-id":"6225083453721487661-firewall"},"name":"6225083453721487661-firewall","namespace":"default"},"spec":{"selector":{"matchLabels":{"emco/deployment-id":"6225083453721487661-firewall"}}},"status":{"ready":false,"resourceCount":0}}

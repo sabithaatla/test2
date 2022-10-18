@@ -1,0 +1,12 @@
+apiVersion: source.toolkit.fluxcd.io/v1beta1
+kind: GitRepository
+metadata:
+  creationTimestamp: null
+  name: "4251359397497592603"
+  namespace: default
+spec:
+  interval: 30s
+  ref:
+    branch: main
+  url: https://github.com/sabithaatla/test2
+status: {}
